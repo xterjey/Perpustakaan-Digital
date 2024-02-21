@@ -1,12 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Create React App And Laravel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `composer update or install`
+### `npm update or install`
 ### `npm start`
+### `php artisan ser`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
